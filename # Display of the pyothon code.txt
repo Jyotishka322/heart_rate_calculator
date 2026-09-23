@@ -1,0 +1,32 @@
+# Display of the pyothon code 
+***********************************************************
+           Heart Rate Calculator                       
+***********************************************************
+this program is to calculate a person's heart rate in BPM
+BPM means Beats Per minute
+enter your name:xyz
+hello xyz!
+now we will start calculating your heart rate in BPM
+enter the number of heartbeats counted :60
+enter the time in seconds:60
+***********************************************************
+       YOUR RESULT        
+***********************************************************
+name: xyz
+heartbeats counted: 60
+time: 60 seconds
+heart rate: 60.0 BPM
+***********************************************************
+your heart rate is between the range of 60 and 100 BPM
+this is a typical rersting heart rate range for many adults
+***********************************************************
+          FORMULA USED                
+***********************************************************
+heart rate = (beats/time)*60
+
+your calculation:
+heart rate =( 60 / 60 )*60
+heart rate = 60.0 BPM
+***********************************************************
+thanks for using this program
+have a nice day xyz! 
